@@ -1,0 +1,1 @@
+function posterior= BayesRule(prior,likelihood,k)
